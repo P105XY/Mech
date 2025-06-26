@@ -14,7 +14,4 @@ class MECH_API AMechGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
-	
-	
-	
 };

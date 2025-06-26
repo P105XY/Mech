@@ -9,11 +9,11 @@ public class MechGame : ModuleRules
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
 		PublicDependencyModuleNames.AddRange(new string[] { 
-			"Core", 
-			"CoreUObject", 
-			"Engine", 
-			"InputCore", 
-			"Mech" 
+			"Core",
+			"CoreUObject",
+			"Engine",
+			"InputCore",
+			"Mech"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
