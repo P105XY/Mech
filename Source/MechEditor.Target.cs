@@ -9,7 +9,8 @@ public class MechEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
+        bUseUnityBuild = true;
 
-		ExtraModuleNames.AddRange( new string[] { "Mech", "MechGame" } );
+        ExtraModuleNames.AddRange( new string[] { "Mech", "MechGame" } );
 	}
 }
