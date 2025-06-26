@@ -7,18 +7,12 @@
 		{
 			"Name": "Mech",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
+			"LoadingPhase": "Default"
 		},
 {
 			"Name": "MechGame",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Mech"
-			]
+			"LoadingPhase": "Default"
 		}
 
 	],

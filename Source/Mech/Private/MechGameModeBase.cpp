@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "MechGameModeBase.h"
+#include "Public/MechGameModeBase.h"
 
 
 
